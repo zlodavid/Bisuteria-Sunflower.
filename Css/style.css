@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif; /* Definir fuente base para el cuerpo */
   margin: 0; /* Eliminar márgenes predeterminados */
   padding: 0; /* Eliminar relleno predeterminado */
-  background-image: url('img/fondo.jpg');
+  background-image: url('Css/Img/fondo.jpg');
 }
 
 header {
